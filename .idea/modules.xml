@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Yolov5_DeepSort_OSNet-master/.idea/Yolov5_DeepSort_OSNet-master.iml" filepath="$USER_HOME$/Desktop/Yolov5_DeepSort_OSNet-master/.idea/Yolov5_DeepSort_OSNet-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../Local/JetBrains/DataSpell2022.1/demo/ds/dataspell_demo/.idea/dataspell_demo.iml" filepath="$PROJECT_DIR$/../../../../../Local/JetBrains/DataSpell2022.1/demo/ds/dataspell_demo/.idea/dataspell_demo.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/deepFakeDetection/.idea/deepFakeDetection.iml" filepath="$USER_HOME$/DataspellProjects/deepFakeDetection/.idea/deepFakeDetection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/yolov5-master/yolov5-master/.idea/yolov5-master.iml" filepath="$USER_HOME$/Desktop/yolov5-master/yolov5-master/.idea/yolov5-master.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/yolov5Custom/.idea/yolov5Custom.iml" filepath="$USER_HOME$/DataspellProjects/yolov5Custom/.idea/yolov5Custom.iml" />
+    </modules>
+  </component>
+</project>
